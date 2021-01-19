@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "user1@mail.com",
+      "displayName": "user1",
+      "password": "qwerty"
+    },
+    {
+      "email": "user2@mail.com",
+      "displayName": "user2",
+      "password": "qwerty"
+    },
+    {
+      "email": "user3@mail.com",
+      "displayName": "user3",
+      "password": "qwerty"
+    }
+  ]
+}
