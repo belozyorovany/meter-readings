@@ -8,6 +8,7 @@ describe('The test-test app', () => {
 
   require('./tests/authenticationTest');
   require('./tests/loginTest');
+  require('./tests/sessionTest');
   require('./tests/registerTest');
   require('./tests/errorHandlingTest');
 });
